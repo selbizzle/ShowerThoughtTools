@@ -2,6 +2,8 @@ package com.burgaggle.datastructure;
 
 import java.util.Random;
 
+import com.burgaggle.exception.FUException;
+
 public class PearTree<Partrige> {
 
 	private Pair sappling;
